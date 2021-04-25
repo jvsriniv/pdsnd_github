@@ -62,7 +62,7 @@ def get_filters():
             if i >= 3:
                 print("\nYou exceeded maximum trails. Please retry running the program.")
                 sys.exit()
-            print("\nPlease check your input. Allowed days are : Sunday to Saturday, ALL")
+            print("\nPlease check your input. The allowed days are : Sunday to Saturday, ALL")
             print("Restarting...")
 
     print('-'*40)
