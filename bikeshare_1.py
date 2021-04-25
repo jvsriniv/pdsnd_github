@@ -48,7 +48,7 @@ def get_filters():
             if i >= 3:
                 print("\nYou exceeded maximum trails. Please retry running the program.")
                 sys.exit()
-            print("\nPlease check your input. Allowed months are: ALL, January to June.")
+            print("\nPlease check your input. The allowed months are: ALL, January to June.")
             print("Restarting...")
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
