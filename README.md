@@ -16,4 +16,4 @@ This project is to analyze the bikeshare data of 3 cities in the US using Python
     * washington.csv
 * bikeshare_1.py - This is the file that contains the Python code for data analysis of the above three data files.
 
-
+##### For more information, please visit [Udacity] (https://www.udacity.com/)
